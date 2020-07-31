@@ -21,8 +21,8 @@
 					<section id="main">
 						<header>
 							<div style="float: right; padding-left: 5px;">
-								<a href="about.html">About &bull;</a>
-								<a href="https://medium.com/@gayaa2010" >Blog &bull;</a>
+								<a href="about.html">About</a> &bull;
+								<a href="https://medium.com/@gayaa2010" >Blog</a> &bull;
 								<a href="https://drive.google.com/file/d/1oTpzlF4dxIdrYAULgI4ERxQaKPDpSPIQ/view?usp=sharing"> Resume	</a>
 								<br>
 
